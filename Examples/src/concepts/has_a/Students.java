@@ -15,7 +15,7 @@ public class Students {
     public void displayStudent(){
         System.out.println("Student Id: "+ studentId);
         System.out.println("Student Name: "+ studentName);
-        System.out.println("Student CollegeName: "+ college.collegeName);
-        System.out.println("Student CollegeLocation: "+ college.CollegeLocation);
+        System.out.println("Student CollegeName: "+ college.getCollegeName());
+        System.out.println("Student CollegeLocation: "+ college.getCollegeLocation());
     }
 }
