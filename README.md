@@ -1,6 +1,6 @@
 # OOP-Concept-Examples
 
-#### This repository contains examples of Object-Oriented Programming (OOP) concepts implemented in various programming languages.
+### This repository contains examples of Object-Oriented Programming (OOP) concepts implemented in various programming languages.
 
 #### Object-oriented programming is a programming paradigm that revolves around the concept of objects, which are instances of classes. OOP focuses on encapsulating data and behavior together into objects, promoting modular and reusable code.
 
